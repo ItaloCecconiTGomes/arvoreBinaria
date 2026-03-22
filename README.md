@@ -1,4 +1,4 @@
-# Arvore-Binaria
+# 🌲 Árvore Binária
 
 > Código desenvolvido para criar uma Árvore Binária, conteúdo visto na matéria de Estrutura de Dados
 
@@ -8,3 +8,5 @@
 * Git e GitHub
 
 ## ⚙ Funcionalidades:
+* ➕ Adicionar elemento
+* ➖ Remover elemento
